@@ -1,8 +1,8 @@
-Origin: Antique's Repo
-Label: Antique's Official Repo
+Origin: MadmanGFX's Repo
+Label: MadmanGFX's Official Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: "iOS the way it's meant to be"
+Description: MadmanGFX's Themes & Widgets
