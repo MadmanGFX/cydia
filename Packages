@@ -1,0 +1,28 @@
+Package: (com.yourname.packagename)
+Name: (Tweak Name)
+Version: (Version Number)
+Size: (Size in Bytes)
+Architecture: iphoneos-arm
+Description: (Tweak Description)
+Maintainer: (Name) <email@provider.com>
+Author: (Name) <email@provider.com>
+Section: (Cydia Section)
+MD5sum:
+SHA1sum:
+SHA256sum:
+Filename: debs//(Tweak Name).deb
+
+Package: com.madmangfx.madwidgets
+Name: MadWidgets #1
+Version: 1.0.0
+Section: Widgets
+Maintainer: MadmanGFX <madmangfx@yahoo.com>
+Depends: com.madmangfx.allure, firmware (>= 9)
+Architecture: iphoneos-arm
+Filename: ./debs//MadWidgets.deb
+Size: 5951288
+Installed-Size:
+MD5sum: cdbf6de0ad7e21de3430a4aa7949b852
+Description: A collection of widgets from themes by MadmanGFX
+Author: MadmanGFX <madmangfx@yahoo.com>
+Depiction: http://twist3dco.elementfx.com/Home/madwidgets-pack-1
