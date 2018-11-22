@@ -19,7 +19,7 @@ Section: Widgets
 Maintainer: MadmanGFX <madmangfx@yahoo.com>
 Depends: com.madmangfx.allure, firmware (>= 9)
 Architecture: iphoneos-arm
-Filename: ./debs//MadWidgets.deb
+Filename: ./debs//madwidgets.deb
 Size: 5951288
 Installed-Size:
 MD5sum: cdbf6de0ad7e21de3430a4aa7949b852
