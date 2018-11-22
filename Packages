@@ -23,6 +23,8 @@ Filename: ./debs//madwidgets.deb
 Size: 5951288
 Installed-Size:
 MD5sum: cdbf6de0ad7e21de3430a4aa7949b852
+SHA1sum:
+SHA256sum:
 Description: A collection of widgets from themes by MadmanGFX
 Author: MadmanGFX <madmangfx@yahoo.com>
 Depiction: http://twist3dco.elementfx.com/Home/madwidgetpack-1
