@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
     <dict>
-        <key>PayloadContent</key>
-        <dict>
-            <key>URL</key>
-            <string>http://twist3dco.elementfx.com/done.php</string>
-            <key>DeviceAttributes</key>
-            <array>
-            <string>DEVICE_NAME</string>
+        <key>URL</key>
+        <string>http://apps.mortlabs.com/device/retrieve.php</string>
+        <key>DeviceAttributes</key>
+        <array>
             <string>UDID</string>
-            <string>PRODUCT</string>
+            <string>IMEI</string>
+            <string>ICCID</string>
             <string>VERSION</string>
-            <string>SERIAL</string>
-            </array>
-        </dict>
-        <key>PayloadOrganization</key>
-        <string>example</string>
-        <key>PayloadDisplayName</key>
-        <string>Profile Service</string>
-        <key>PayloadVersion</key>
-        <integer>1</integer>
-        <key>PayloadUUID</key>
-        <string>D84C2DBF-2E70-4D91-A55A-4AB4D56C6E5A</string>
-        <key>PayloadIdentifier</key>
-        <string>example.com</string>
-        <key>PayloadDescription</key>
-        <string>example</string>
-        <key>PayloadType</key>
-        <string>Profile Service</string>
+            <string>PRODUCT</string>
+        </array>
     </dict>
+    <key>PayloadOrganization</key>
+    <string>MortLabs.com</string>
+    <key>PayloadDisplayName</key>
+    <string>Profile Service</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadUUID</key>
+    <string>B958E359-34C2-42F4-BD0C-C985E6D5376B</string>
+    <key>PayloadIdentifier</key>
+    <string>com.mortlabs.profile-service</string>
+    <key>PayloadDescription</key>
+    <string>This temporary profile will be used to find and display your current device's UDID.</string>
+    <key>PayloadType</key>
+    <string>Profile Service</string>
+</dict>
 </plist>
