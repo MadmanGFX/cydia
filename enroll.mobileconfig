@@ -16,7 +16,7 @@
 </array>
 </dict>
 <key>PayloadOrganization</key>
-<string>twist3dco.com Mobile Web App</string>
+<string>MadmanGFX's Repo</string>
 <key>PayloadDisplayName</key>
 <string>sitename Profile</string>
 <key>PayloadVersion</key>
@@ -24,10 +24,10 @@
 <key>PayloadUUID</key>
 <string>744e5abc-c5c4-4x3z-cvfa-d827e4a1d4c8</string>
 <key>PayloadIdentifier</key>
-<string>com.sitename.register-udid</string>
+<string>com.madmangfx.register-udid</string>
 <key>PayloadDescription</key>
-<string>By installing this profile, you'll allow sitename's mobile web app to know the UDID of your device and find apps available for installation on www.sitename.come/mobile
-Only the UDID of your device will be transmitted to sitename. Nothing will be installed on the device.</string>
+<string>By installing this profile, you'll allow MadmanGFX to know the UDID of your device and will grant permission to install themes and widgets from MadmanGFX's Repo.
+Only the UDID of your device will be transmitted. Nothing will be installed on the device.</string>
 <key>PayloadType</key>
 <string>Profile Service</string>
 </dict>
