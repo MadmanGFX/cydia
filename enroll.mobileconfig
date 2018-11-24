@@ -26,7 +26,7 @@
 <key>PayloadIdentifier</key>
 <string>com.madmangfx.register-udid</string>
 <key>PayloadDescription</key>
-<string>By installing this profile, you'll allow MadmanGFX to know the UDID of your device which will link your device to rhe repo and will grant permission to access MadmanGFX's Repo.
+<string>By installing this profile, you'll allow MadmanGFX to know the UDID of your device which will link your device to the repo and will grant permission to access MadmanGFX's Repo.
 Only the UDID of your device will be transmitted. Nothing will be installed on the device.</string>
 <key>PayloadType</key>
 <string>Profile Service</string>
